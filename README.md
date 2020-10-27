@@ -1,1 +1,2 @@
-# maze-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
